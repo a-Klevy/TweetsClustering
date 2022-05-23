@@ -6,7 +6,7 @@ generate a more concise and organized representation of the raw tweets, which wi
 useful for many Twitter-based applications (e.g., truth discovery, trend analysis, search ranking,
 etc.)
 
-Here, the tweets are clustered using Jaccard distance metric and K-means clustering algorithm.
+Here, the tweets are clustered using Jaccard distance metric and K-means clustering algorithms.
 
 # Jaccard Distance
 
