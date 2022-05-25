@@ -56,7 +56,7 @@ Output results on one of the datasets is provided in "Report.pdf".
 3) In the root directory of the project, execute the given command from command line:
 	- "python main.py"
 
-4) Output from a sample run is also stored in a file named "output.txt" for the reference.
+4) Output from a sample run is also stored in a file named "AI report" for the reference.
 
 Notes :
  a) The code uses "bbchealth.txt" by default for the tweets data.
