@@ -43,7 +43,7 @@ Firstly, the tweets are preprocessed using the following steps:
 
 K-means clustering algorithm is implemented from scratch, without using any machine learning libraries
 
-Output results on one of the datasets is provided in "Report.pdf".
+Output results on one of the datasets is provided in "AI Report.pdf".
 
 # Steps To Run
 
