@@ -47,7 +47,7 @@ Output results on one of the datasets is provided in "Report.pdf".
 
 # Steps To Run
 
-1) If the system don't have python Installed in it, first install python (version greater than or equal v3.7)
+1) If the system donesn't have python Installed in it, first install python (version greater than or equal v3.7)
 	- https://www.python.org/downloads/
 2) The code uses the following python native libraries
         - random
